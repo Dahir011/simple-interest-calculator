@@ -1,37 +1,21 @@
 # Simple Interest Calculator
 
-This project is a simple interest calculator that computes simple interest based on the principal amount, annual rate of interest, and time period.
+A simple interest calculator that calculates simple interest based on the principal amount, rate of interest, and time period.
 
 ## Formula
 
 Simple Interest = (Principal × Rate × Time) / 100
 
-## Features
+## Input Fields
 
-- Calculate simple interest
-- Accepts principal amount
-- Accepts rate of interest
-- Accepts time period
-- Displays the computed result
+- Principal amount
+- Rate of interest
+- Time period
 
-## Technologies Used
+## Description
 
-- HTML
-- CSS
-- JavaScript
+This project helps users calculate simple interest by entering the principal amount, rate of interest, and time period.
 
-## How to Run
+## Usage
 
-1. Download or clone the repository.
-2. Open `index.html` in a web browser.
-3. Enter the principal amount.
-4. Enter the rate of interest.
-5. Enter the time period.
-6. Click the calculate button to see the result.
-
-## Example
-
-- Principal: 1000
-- Rate of Interest: 5
-- Time Period: 2 years
-- Simple Interest: 100
+Enter the principal amount, rate of interest, and time period to compute the simple interest.
